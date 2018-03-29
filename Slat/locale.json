@@ -1,0 +1,9 @@
+{
+	"translations": {
+		"de": {
+			"Creating instance.": "Instanz wird erzeugt.",
+			"Slat is active.": "Lamelle ist aktiv.",
+			"interface closed.": "Interface geschlossen."
+		}
+	}
+}

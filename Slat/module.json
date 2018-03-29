@@ -1,0 +1,11 @@
+{
+    "id": "{74258AB8-8E6E-855A-E3DC-83B69F1791B8}",
+    "name": "Slat",
+    "type": 3,
+    "vendor": "Lamellen",
+    "aliases": ["Slat"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "Slat"
+}
